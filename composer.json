@@ -8,11 +8,13 @@
         }
     ],
     "require": {},
+    
     "autoload": {
         "psr-4": {
             "kc\\Pay\\YeePay\\": ""
         }
     },
+    
     "autoload-dev": {
         "psr-4": {
             "kc\\Pay\\YeePay\\": ""
