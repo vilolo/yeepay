@@ -1,5 +1,5 @@
 {
-    "name": "yeepay",
+    "name": "pay/yeepay",
     "description": "The Yee Pay extends for yii2 framework.",
     "authors": [
         {
