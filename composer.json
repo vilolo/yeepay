@@ -1,5 +1,5 @@
 {
-    "name": "pay/yeepay",
+    "name": "kc/yeepay",
     "description": "The Yee Pay extends for yii2 framework.",
     "authors": [
         {
@@ -10,12 +10,12 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "my\\Pay\\YeePay\\": "./"
+            "kc\\Pay\\YeePay\\": "./"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "my\\Pay\\YeePay\\": "./"
+            "kc\\Pay\\YeePay\\": "./"
         }
     }
 }

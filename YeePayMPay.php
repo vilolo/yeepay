@@ -1,6 +1,6 @@
 <?php
 
-namespace my\Pay\YeePay;
+namespace kc\Pay\YeePay;
 
 // 接口类型
 define('YEEPAY_PAY_API', 1);

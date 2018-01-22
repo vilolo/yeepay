@@ -1,6 +1,6 @@
 <?php
 
-namespace my\Pay\YeePay;
+namespace kc\Pay\YeePay;
 
 class YeePayMPayException extends \Exception
 {
